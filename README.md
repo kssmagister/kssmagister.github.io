@@ -14,9 +14,9 @@ Config:
   (setq org-publish-project-alist
         '(("my-org-publish"
            :recursive t
-           :base-directory "C:\\Users\\RutzD\\Dropbox\\my-org-publish\\content"
+           :base-directory "..."
            :publishing-function org-html-publish-to-html
-           :publishing-directory "C:\\Users\\RutzD\\Dropbox\\my-org-publish\\public"
+           :publishing-directory "..."
            :section-numbers nil
            :with-creator t
            :time-stamp-file nil
