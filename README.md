@@ -1,6 +1,6 @@
 # kssmagister.github.io
 
-## webpage published with org-publish
+## web page published with org-publish
 Config:
 
 ```
